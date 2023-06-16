@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css?family=Aboreto);
+
+/* header style */
+
+#heading {
+    font-family: "aboreto";
+    font-size: 350%;
+    color: rgb(16, 130, 224);
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#heading {
+    float: none;
+    position: absolute;
+}
+
+body {
+    font-family: "aboreto";
+    font-weight: 200;
+    color: black;
+}
+
+/* menu stlying */
+
+#menu {
+    font-family: "aboreto";
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(112, 201, 201);
+}
+
+#menu {
+    float: right;
+    color: rgb(26, 6, 6);
+    text-align: right;
+    padding: 14px 16px;
+    margin-right: 24px;
+}
