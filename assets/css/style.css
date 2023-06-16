@@ -58,8 +58,10 @@ body {
     text-orientation: center;
 }
 
+/* Add image style here */
+
 #harbour-image {
-    height: 600px;
+    height: 450px;
     width: 100%;
     background-image: url('../images/guernsey-501805_1920.jpg');
     background-position-y: 0px;
