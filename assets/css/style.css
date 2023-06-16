@@ -57,3 +57,15 @@ body {
     font-family: "aboreto";
     text-orientation: center;
 }
+
+#harbour-image {
+    height: 600px;
+    width: 100%;
+    background-image: url('../images/guernsey-501805_1920.jpg');
+    background-position-y: 0px;
+}
+
+#harbour-image {
+    background-size: cover;
+    background-position: center;
+}
