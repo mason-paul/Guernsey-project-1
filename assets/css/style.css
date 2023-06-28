@@ -58,7 +58,7 @@ body {
     text-orientation: center;
 }
 
-/* Add image style here */
+/* Add image style here for index page*/
 
 #harbour-image {
     height: 450px;
@@ -72,6 +72,8 @@ body {
     background-position: center;
 }
 
+/* Add image style here for activities page */
+
 #boat-image {
     height: 450px;
     width: 100%;
@@ -83,3 +85,5 @@ body {
     background-size: cover;
     background-position: center;
 }
+
+/* Add image style here for gallery */
