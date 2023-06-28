@@ -71,3 +71,10 @@ body {
     background-size: cover;
     background-position: center;
 }
+
+#boat-image {
+    background-image: url('../images/boat-2392857_1920.jpg'');
+ height: 200px;
+            width: 40%;
+            background-position: 0px;
+    }
