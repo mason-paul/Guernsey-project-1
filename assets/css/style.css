@@ -5,7 +5,7 @@
 #heading {
     font-family: "aboreto";
     font-size: 350%;
-    color: rgb(16, 130, 224);
+    color: rgb(94, 170, 233);
     text-align: center;
     text-transform: uppercase;
 }
@@ -28,6 +28,7 @@ body {
     font-size: 110%;
     letter-spacing: 5px;
     line-height: 50px;
+    border: 20px;
 }
 
 #menu li {
@@ -44,11 +45,11 @@ body {
 /* change color to sea blue/green */
 
 #menu a:hover {
-    border-bottom: 1px solid blue;
+    border-bottom: 1px solid black;
 }
 
 .active {
-    border-bottom: 1px solid blue;
+    border-bottom: 1px solid black;
 }
 
 /* About guernsey here add style to the title and informtion */
@@ -61,15 +62,17 @@ body {
 /* Add image style here for index page*/
 
 #harbour-image {
+    opacity: 0.7;
     height: 450px;
     width: 100%;
     background-image: url('../images/guernsey-501805_1920.jpg');
-    background-position-y: 0px;
+    background-position-y: 50px;
 }
 
 #harbour-image {
     background-size: cover;
     background-position: center;
+    position: relative;
 }
 
 /* Add image style here for activities page */
@@ -84,6 +87,7 @@ body {
 #boat-image {
     background-size: cover;
     background-position: center;
+    opacity: 0.7;
 }
 
 /* Add image style here for gallery */
