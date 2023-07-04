@@ -78,7 +78,6 @@ body {
     height: 450px;
     width: 100%;
     background-image: url('../images/boat-2392857_1920.jpg');
-    background-position-y: 0px;
 }
 
 #boat-image {
@@ -92,13 +91,25 @@ body {
     clear: both;
     line-height: 0;
     column-count: 4;
-    column-gap: 8px;
+    gap: 8px;
 }
 
-#photos > img {
+#photos>img {
     width: 100%;
 }
 
+/* Add image style here for footer */
+
+#sunset-image {
+    height: 450px;
+    width: 100%;
+    background-image: url('../images/gallery/undefined\ -\ Imgur.jpg');
+}
+
+#sunset-image {
+    background-size: cover;
+    background-position: center;
+}
 
 /* Add image style here for footer */
 
@@ -110,7 +121,7 @@ footer {
     text-align: center;
 }
 
-.social-links > li {
+.social-links>li {
     display: inline;
 }
 
