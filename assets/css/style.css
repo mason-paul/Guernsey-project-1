@@ -62,15 +62,14 @@ body {
 /* Add image style here for index page*/
 
 #harbour-image {
-    height: 500px;
+    height: 450px;
     width: 100%;
     background-image: url('../images/guernsey-501805_1920.jpg');
 }
 
 #harbour-image {
-    background-repeat: no-repeat;
+    background-size: cover;
     background-position: center;
-    position: relative;
 }
 
 /* Add image style here for activities page */
@@ -85,7 +84,6 @@ body {
 #boat-image {
     background-size: cover;
     background-position: center;
-    opacity: 0.7;
 }
 
 /* Add image style here for gallery */
