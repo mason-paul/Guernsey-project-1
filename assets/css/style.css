@@ -62,15 +62,12 @@ body {
 /* Add image style here for index page*/
 
 #harbour-image {
-    opacity: 0.7;
-    height: 450px;
+    height: 500px;
     width: 100%;
     background-image: url('../images/guernsey-501805_1920.jpg');
-    background-position-y: 50px;
 }
 
 #harbour-image {
-    background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     position: relative;
@@ -92,3 +89,27 @@ body {
 }
 
 /* Add image style here for gallery */
+
+
+
+
+/* Add image style here for footer */
+
+footer {
+    height: 150px;
+}
+
+.social-links {
+    text-align: center;
+}
+
+.social-links > li {
+    display: inline;
+}
+
+.social-links i {
+    font-size: 150%;
+    margin: 1%;
+    padding: 5%;
+}
+
