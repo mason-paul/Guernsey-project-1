@@ -90,7 +90,16 @@ body {
 
 /* Add image style here for gallery */
 
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 8px;
+}
 
+#photos > img {
+    width: 100%;
+}
 
 
 /* Add image style here for footer */
