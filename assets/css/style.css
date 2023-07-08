@@ -124,6 +124,14 @@ footer {
 
 /* Add image style here for sign up page */
 
+#sunset-image {
+    background-image: url('./workspaces/Guernsey-project-1/assets/images/gallery/tony-brassell-chVfiKgy9_E-unsplash.jpg')
+}
+
+sign-up-html {
+    background-image: ;
+}
+
 .signup-form {
     width: 360px;
     height: 620px;
