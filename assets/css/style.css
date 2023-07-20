@@ -125,19 +125,33 @@ footer {
 /* Add image style here for sign up page */
 
 #sunset-image {
-    background-image: url('./workspaces/Guernsey-project-1/assets/images/gallery/tony-brassell-chVfiKgy9_E-unsplash.jpg')
+    height: 100%;
+    width: 100%;
+    background-image: url('./workspaces/Guernsey-project-1/assets/images/gallery/tony-brassell-chVfiKgy9_E-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    position: absolute;
 }
 
-sign-up-html {
-    background-image: ;
+.sign-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 20px 30px 20px 30px;
+    text-align: center;
+    font-size: 100%;
+    display: flexbox;
+    background-color: blue;
+    color: black;
 }
 
 .signup-form {
     width: 360px;
     height: 620px;
-    background-color: rgb(105, 128, 222);
+    background-color: rgb(55, 62, 93);
     border-radius: 3px;
     padding: 30px;
     margin: auto;
     text-align: center;
+    background-position: center;
 }
+
