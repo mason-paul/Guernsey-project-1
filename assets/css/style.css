@@ -64,6 +64,7 @@ body {
 #harbour-image {
     height: 450px;
     width: 100%;
+    display: flex;
     background-image: url('../images/guernsey-501805_1920.jpg');
 }
 
@@ -77,6 +78,7 @@ body {
 #boat-image {
     height: 450px;
     width: 100%;
+    display: flex;
     background-image: url('../images/boat-2392857_1920.jpg');
 }
 
@@ -97,10 +99,6 @@ body {
 #photos>img {
     width: 100%;
 }
-
-/* Add image style here for footer */
-
-
 
 /* Add image style here for footer */
 
@@ -128,18 +126,19 @@ footer {
     background-image: url(../images/gallery/travis-leery-a7XVe2Sje5I-unsplash.jpg);
     background-size: cover;
     background-position: center;
-    height: 780px;
+    height: 750px;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 100vw;
+    width: 98vw;
     align-items: center;
 }
 
 .signup-form {
     color: #fff;
     background-color: rgba(120, 111, 111, 0.6);
-    width: 40vw;
+    width: 20vw;
+    height: 20vw;
     padding: 50px;
     display: flex;
     flex-direction: column;
@@ -147,10 +146,10 @@ footer {
     align-items: center;
 }
 
-.signup-form h2 {
+.signup-form h1 {
     color: #fafafa;
     margin-bottom: 10px;
-    position: center;
+    position: top center;
 }
 
 .text-input {
@@ -162,6 +161,7 @@ footer {
     border: 5px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
+    font-size: large;
 }
 
 .text-input:hover {
@@ -184,3 +184,5 @@ footer {
     background-color: #fafafa;
     color: #5bcb38;
 }
+
+@media screen and (max-width: 1400px) {}
