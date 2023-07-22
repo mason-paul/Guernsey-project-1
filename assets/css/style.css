@@ -125,21 +125,26 @@ footer {
 /* Add image style here for sign up page */
 
 .form-section {
-    background-image: url("../images/gallery/travis-leery-a7XVe2Sje5I-unsplash.jpg");
+    background-image: url(../images/gallery/travis-leery-a7XVe2Sje5I-unsplash.jpg);
     background-size: cover;
     background-position: center;
     height: 780px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100vw;
+    align-items: center;
 }
 
 .signup-form {
-    margin: 150px 10% 0 0;
     color: #fff;
     background-color: rgba(120, 111, 111, 0.6);
-    max-width: 400px;
-    position: absolute;
-    left: 35%;
+    width: 40vw;
     padding: 50px;
-
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .signup-form h2 {
