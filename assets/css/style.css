@@ -102,13 +102,14 @@ body {
 
 /* Add Google map style here */
 
-.google-maps iframe {
-    margin-left: 15%;
+.container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
-.google-maps h3 {
-    text-align: center;
-}
 /* Add image style here for footer */
 
 footer {
