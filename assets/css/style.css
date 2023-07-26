@@ -100,6 +100,15 @@ body {
     width: 100%;
 }
 
+/* Add Google map style here */
+
+.google-maps iframe {
+    margin-left: 15%;
+}
+
+.google-maps h3 {
+    text-align: center;
+}
 /* Add image style here for footer */
 
 footer {
