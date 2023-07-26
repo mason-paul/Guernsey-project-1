@@ -87,7 +87,7 @@ body {
     background-position: center;
 }
 
-/* Add image style here for gallery */
+/* Add image style here for gallery based on love running project by The Code Institute */
 
 #photos {
     clear: both;
@@ -100,7 +100,7 @@ body {
     width: 100%;
 }
 
-/* Add Google map style here */
+/* Add Google map style here, help for style used from youtube channel: Great Stack */
 
 .container {
     width: 100%;
@@ -130,7 +130,7 @@ footer {
     padding: 5%;
 }
 
-/* Add image style here for sign up page */
+/* Add image style here for sign up page based on the Love Running project by The Code Institute */
 
 .form-section {
     background-image: url(../images/gallery/travis-leery-a7XVe2Sje5I-unsplash.jpg);
@@ -194,5 +194,7 @@ footer {
     background-color: #fafafa;
     color: #5bcb38;
 }
+
+/* Add media here fro screen sizing on diffrent devices */
 
 @media screen and (max-width: 1400px) {}
