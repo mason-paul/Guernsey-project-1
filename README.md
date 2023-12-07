@@ -45,7 +45,7 @@ This page is to inform users
 -Amiresponsive
 -CSS & HTML validation (jigsaw.w3.org)
 
-### What needs to improve:
+### What needs to improve (should have done differently):
 
 
 ### What went well:
