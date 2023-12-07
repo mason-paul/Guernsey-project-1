@@ -9,10 +9,11 @@ Live link:
 This website is for users to explore and have some understanding of my home Guernsey. It will inform users that are looking to explore the channel islands what one of the islands are like Guernsey, the Island on which I live.
 
 
-### Steps taken
+### Steps taken to produce Guernsey website.
 
-#### Design
+#### The first step is design:
 
+When designing this project I used the free (suggested) Balsamic app to get a basic layout of the site. The deign had changed multiple times. I wanted a user friendly 
 
 
 ### code used and learnt
@@ -25,7 +26,13 @@ This website is for users to explore and have some understanding of my home Guer
 
 -Slack
 -Love running project-Code institute
--
+-Balsamiq
+-Diffchecker
+-W3school
+-Font Awesome
+-unsplash (photos)
+-Amiresponsive
+-CSS & HTML validation (jigsaw.w3.org)
 
 ### What needs to improve:
 
