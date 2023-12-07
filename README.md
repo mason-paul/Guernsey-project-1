@@ -23,7 +23,7 @@ The index page was firstly designed with a photo with that local town with the u
 
 ##### The Activities page.
 
-This page is to inform users 
+This page is to inform users of what the Island has to offer in terms of activities. These activities
 
 
 ### code used and learnt
