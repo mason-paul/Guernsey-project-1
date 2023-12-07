@@ -24,3 +24,10 @@ This website is for users to explore and have some understanding of my home Guer
 ### Sources
 
 -Slack
+-Love running project-Code institute
+-
+
+### What needs to improve:
+
+
+### What went well:
