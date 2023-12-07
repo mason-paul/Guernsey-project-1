@@ -6,7 +6,7 @@ Live link:
 
 ## Introduction:
 
-This website is for users to explore and have some understanding of my home Guernsey. It will inform users that are looking to explore the channel islands what one of the islands are like Guernsey, the Island on which I live.
+This website is for users to explore and have some understanding of my home Guernsey. It will inform users that are looking to explore the channel islands what one of the islands are like Guernsey, the Island on which I live. All photos/images used in this website are free stock photos used from unsplash and pexels recommended by code institute.
 
 
 ### Steps taken to produce Guernsey website.
@@ -19,7 +19,11 @@ The website would have been too overly designed if a Guernsey photo was used as 
 
 ##### The Index page.
 
-The index page was firstly designed with a photo with that local town with the unique buses 
+The index page was firstly designed with a photo with that local town with the unique buses with historical information about Guernsey with the Google maps at the bottom to allow users to know exactly  where the Island is.
+
+##### The Activities page.
+
+This page is to inform users 
 
 
 ### code used and learnt
@@ -36,7 +40,8 @@ The index page was firstly designed with a photo with that local town with the u
 -Diffchecker
 -W3school
 -Font Awesome
--unsplash (photos)
+-Unsplash (photos)
+-Pixels.com
 -Amiresponsive
 -CSS & HTML validation (jigsaw.w3.org)
 
