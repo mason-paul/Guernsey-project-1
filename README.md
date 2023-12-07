@@ -1,6 +1,6 @@
 # Welcome to my firt website project one-Guernsey!
 
-This is my first project with the code institute which I have been working on for two months. I had taken a four months off before coming back to finish my project. 
+This is my first project with the [Code Insitute](https://codeinstitute.net) which I have been working on for two months. I had taken a four months off before coming back to finish my project. 
 
 Live link:
 
