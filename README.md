@@ -48,5 +48,10 @@ This page is to inform users of what the Island has to offer in terms of activit
 
 ### What needs to improve (should have done differently):
 
+Comments- within my code I should have used more comments throughout my project highlighting more about where I got information and what I plan to do.
+
+README.md- this file i had started at the end of my project and should have started it when i started my project. I found using then readme at the end made my project more complicated to complete when trying to show my designs as I am unable to find them now and unable to show them.
+
+
 
 ### What went well:
