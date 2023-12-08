@@ -1,9 +1,8 @@
-<img width="997" alt="Am i responsive" src="https://github.com/mason-paul/Guernsey-project-1/assets/133054461/2c14dc14-3b1f-44e1-8140-43dd3274ef21">
 # Welcome to my firt website project one-Guernsey!
 
 This is my first project with the [Code Insitute](https://codeinstitute.net) which I have been working on for two months. I had taken a four months off before coming back to finish my project. 
 
-Live link:
+Live link: https://mason-paul.github.io/Guernsey-project-1/ 
 
 <img width="997" alt="Am i responsive" src="https://github.com/mason-paul/Guernsey-project-1/assets/133054461/2c14dc14-3b1f-44e1-8140-43dd3274ef21">
 
