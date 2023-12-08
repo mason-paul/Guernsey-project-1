@@ -26,7 +26,13 @@ The index page was firstly designed with a photo with that local town with the u
 
 ##### The Activities page.
 
-This page is to inform users of what the Island has to offer in terms of activities. These activities
+This page is to inform users of what the Island has to offer in terms of activities to do on the Island. These activities would inform the user what there is to offer followed by a breif description. On this page it should be very simplisic but just enough information that allows the user to want to sign up and know more.
+
+##### The gallery page.
+
+
+##### The sign-up page.
+
 
 
 ### Code used and learnt
@@ -70,7 +76,12 @@ Gallery- there were struggles with these images and they were large files and la
 
 
 
-### Validation for HTML
+### Validation for HTML on final test:
+Index page-  error codes
+Activites page- error codes
+Gallery page- error codes
+Sign-up page- error codes
 
 
-### Validation for CSS
+### Validation for CSS on final test:
+Style.css page- error codes
