@@ -35,12 +35,14 @@ This page is to inform users of what the Island has to offer in terms of activit
 
 ##### The gallery page.
 
+This page is for users to see and explore Guernsey from the comfort from their own home. This page shows users the beauty of the island and if they visted what they would be able to see.
 
 <img width="1143" alt="Gallery page" src="https://github.com/mason-paul/Guernsey-project-1/assets/133054461/c44a3196-48ce-4236-9061-49f7c1fde4f0">
 
 
 ##### The sign-up page.
 
+This is the sign up page where users can sign up for more information about Guernsey, how to get to get to Guernsey. In an ideal world they would be sent a confirmation email and would be contacted with a questionaire of what further information they would like to know.
 
 <img width="1147" alt="Sign up page" src="https://github.com/mason-paul/Guernsey-project-1/assets/133054461/8bd2cfc4-a3de-4f82-bbf8-d76562f9d84f">
 
