@@ -44,6 +44,7 @@ This page is to inform users of what the Island has to offer in terms of activit
 -Pixels.com
 -Amiresponsive
 -CSS & HTML validation (jigsaw.w3.org)
+-YouTube (flexbox Kevin Powell)
 
 ### What needs to improve (should have done differently):
 
