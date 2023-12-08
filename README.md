@@ -36,7 +36,7 @@ This page is to inform users of what the Island has to offer in terms of activit
 ##### The gallery page.
 
 
--HTML<img width="1143" alt="Gallery page" src="https://github.com/mason-paul/Guernsey-project-1/assets/133054461/c44a3196-48ce-4236-9061-49f7c1fde4f0">
+<img width="1143" alt="Gallery page" src="https://github.com/mason-paul/Guernsey-project-1/assets/133054461/c44a3196-48ce-4236-9061-49f7c1fde4f0">
 
 
 ##### The sign-up page.
