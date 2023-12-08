@@ -76,6 +76,8 @@ Fun- this project has allowed me to explore coding in a very fun way allowing me
 
 Gallery- there were struggles with these images and they were large files and large in size. After speaking to my mentor and being introduced to flexbox this made this process a lot easier and will be used in future designs. Using websites suggested by code institute during the love running project finding stock images became easier.
 
+Design- The design of the website came out the way I had intended to, easy to navigate, 
+
 
 
 ### Validation for HTML on final test:
