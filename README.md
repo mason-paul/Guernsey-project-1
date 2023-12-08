@@ -17,9 +17,13 @@ When designing this project I used the free (suggested) Balsamic app to get a ba
 
 The website would have been too overly designed if a Guernsey photo was used as a back ground. but still wanted the user to see the beauty of the Island so each page had at least one photo of Guernsey.
 
+Each page layout should be the same as such I wanted to have the social networking at the bottom of each page.
+
 ##### The Index page.
 
 The index page was firstly designed with a photo with that local town with the unique buses with historical information about Guernsey with the Google maps at the bottom to allow users to know exactly  where the Island is.
+
+
 
 ##### The Activities page.
 
@@ -52,6 +56,11 @@ Comments- within my code I should have used more comments throughout my project 
 
 README.md- this file i had started at the end of my project and should have started it when i started my project. I found using then readme at the end made my project more complicated to complete when trying to show my designs as I am unable to find them now and unable to show them.
 
+Time management- over the course of this project I should have created a timeliness allowing for how much time should of been on each section of the website. This then allowed for the design of the website, HTML, CSS, readme file,validation and trial of the site.
+
+CSS code- this section of the website is online ?% of the overall website which could have been a little more with detailing more of the sign up form.
 
 
 ### What went well:
+
+Fun- this project has allowed me to explore coding in a very fun way allowing me to explore different 
