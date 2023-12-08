@@ -31,7 +31,7 @@ The index page was firstly designed with a photo with that local town with the u
 
 This page is to inform users of what the Island has to offer in terms of activities to do on the Island. These activities would inform the user what there is to offer followed by a breif description. On this page it should be very simplisic but just enough information that allows the user to want to sign up and know more.
 
-<img width="1145" alt="Activites page" src="https://github.com<img width="1147">
+<img width="1145" alt="Activites page" src="https://github.com/mason-paul/Guernsey-project-1/assets/133054461/4176832f-eeb0-407b-9764-ccc7fc1c7803">
 
 ##### The gallery page.
 
@@ -41,18 +41,16 @@ This page is to inform users of what the Island has to offer in terms of activit
 
 ##### The sign-up page.
 
-alt="Sign up page" src="https://github.com/mason-paul/Guernsey-project-1/assets/133054461/9acfdaa2-4870-47d7-8049-a7392ad805ca">/mason-paul/Guernsey-project-1/assets/133054461/b2774db4-14d9-4a9e-9248-53ac3b88620b">
 
+<img width="1147" alt="Sign up page" src="https://github.com/mason-paul/Guernsey-project-1/assets/133054461/8bd2cfc4-a3de-4f82-bbf8-d76562f9d84f">
 
 
 
 ### Code used and learnt
 
-
-
-
+-HTML
 -CSS
-![Uploading Sign up page.png…]()
+
 
 
 ### Sources
