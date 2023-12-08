@@ -29,7 +29,7 @@ The index page was firstly designed with a photo with that local town with the u
 This page is to inform users of what the Island has to offer in terms of activities. These activities
 
 
-### code used and learnt
+### Code used and learnt
 
 -HTML
 -CSS
@@ -67,8 +67,6 @@ Images- even when websites were suggested to use for stock images of Guernsey th
 Fun- this project has allowed me to explore coding in a very fun way allowing me to explore different designs, seeing how my coding looks on the website and creating something amazing. Some fun (and frustration) was the debugging of my error codes and what a simple code change can do.
 
 Gallery- there were struggles with these images and they were large files and large in size. After speaking to my mentor and being introduced to flexbox this made this process a lot easier and will be used in future designs. Using websites suggested by code institute during the love running project finding stock images became easier.
-
-
 
 
 
