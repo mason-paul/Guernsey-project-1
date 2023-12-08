@@ -24,7 +24,6 @@ Each page layout should be the same as such I wanted to have the social networki
 The index page was firstly designed with a photo with that local town with the unique buses with historical information about Guernsey with the Google maps at the bottom to allow users to know exactly  where the Island is.
 
 
-
 ##### The Activities page.
 
 This page is to inform users of what the Island has to offer in terms of activities. These activities
@@ -60,10 +59,17 @@ Time management- over the course of this project I should have created a timelin
 
 CSS code- this section of the website is online ?% of the overall website which could have been a little more with detailing more of the sign up form.
 
+Images- even when websites were suggested to use for stock images of Guernsey there was a lot of images I wanted to use but couldn't as I needed to pay for them. I felt that this reduced my expectation of what the gallery would finally look like.
+
 
 ### What went well:
 
-Fun- this project has allowed me to explore coding in a very fun way allowing me to explore different 
+Fun- this project has allowed me to explore coding in a very fun way allowing me to explore different designs, seeing how my coding looks on the website and creating something amazing. Some fun (and frustration) was the debugging of my error codes and what a simple code change can do.
+
+Gallery- there were struggles with these images and they were large files and large in size. After speaking to my mentor and being introduced to flexbox this made this process a lot easier and will be used in future designs. Using websites suggested by code institute during the love running project finding stock images became easier.
+
+
+
 
 
 ### Validation for HTML
