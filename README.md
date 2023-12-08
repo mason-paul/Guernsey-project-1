@@ -64,3 +64,9 @@ CSS code- this section of the website is online ?% of the overall website which 
 ### What went well:
 
 Fun- this project has allowed me to explore coding in a very fun way allowing me to explore different 
+
+
+### Validation for HTML
+
+
+### Validation for CSS
