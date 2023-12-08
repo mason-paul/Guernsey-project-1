@@ -25,22 +25,34 @@ Each page layout should be the same as such I wanted to have the social networki
 
 The index page was firstly designed with a photo with that local town with the unique buses with historical information about Guernsey with the Google maps at the bottom to allow users to know exactly  where the Island is.
 
+<img width="1156" alt="Index page" src="https://github.com/mason-paul/Guernsey-project-1/assets/133054461/21be7dc1-93a0-4a87-bfa0-60dc29d8c750">
 
 ##### The Activities page.
 
 This page is to inform users of what the Island has to offer in terms of activities to do on the Island. These activities would inform the user what there is to offer followed by a breif description. On this page it should be very simplisic but just enough information that allows the user to want to sign up and know more.
 
+<img width="1145" alt="Activites page" src="https://github.com<img width="1147">
+
 ##### The gallery page.
 
 
+-HTML<img width="1143" alt="Gallery page" src="https://github.com/mason-paul/Guernsey-project-1/assets/133054461/c44a3196-48ce-4236-9061-49f7c1fde4f0">
+
+
 ##### The sign-up page.
+
+alt="Sign up page" src="https://github.com/mason-paul/Guernsey-project-1/assets/133054461/9acfdaa2-4870-47d7-8049-a7392ad805ca">/mason-paul/Guernsey-project-1/assets/133054461/b2774db4-14d9-4a9e-9248-53ac3b88620b">
+
 
 
 
 ### Code used and learnt
 
--HTML
+
+
+
 -CSS
+![Uploading Sign up page.png…]()
 
 
 ### Sources
@@ -48,6 +60,7 @@ This page is to inform users of what the Island has to offer in terms of activit
 -Slack
 -Love running project-Code institute
 -Balsamiq
+
 -Diffchecker
 -W3school
 -Font Awesome
