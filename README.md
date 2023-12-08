@@ -57,7 +57,7 @@ README.md- this file i had started at the end of my project and should have star
 
 Time management- over the course of this project I should have created a timeliness allowing for how much time should of been on each section of the website. This then allowed for the design of the website, HTML, CSS, readme file,validation and trial of the site.
 
-CSS code- this section of the website is online ?% of the overall website which could have been a little more with detailing more of the sign up form.
+CSS code- this section of the website is online 15.1% of the overall website which could have been a little more with detailing more of the sign up form.
 
 Images- even when websites were suggested to use for stock images of Guernsey there was a lot of images I wanted to use but couldn't as I needed to pay for them. I felt that this reduced my expectation of what the gallery would finally look like.
 
